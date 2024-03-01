@@ -10,7 +10,7 @@ namespace PoShumuim
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите S");
+            
             double x  = Convert.ToDouble(Console.ReadLine());
             double f = 2*Math.Sin(x)+3*Math.Cos(x);
             Console.WriteLine();

@@ -14,6 +14,13 @@ namespace PoShumuim
             double x  = Convert.ToDouble(Console.ReadLine());
             double f = 2*Math.Sin(x)+3*Math.Cos(x);
             Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine();
+
+            Console.WriteLine();
+            Console.WriteLine();
+
         }
     }
 }
